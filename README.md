@@ -4,3 +4,6 @@
 
 Dashboard by:
 - <https://github.com/anuraghazra/github-readme-stats>
+
+Meus projetos:
+- [Aula da Alura sobre o Grafana com o InfluxDB](https://github.com/eniovalo/alura-grafana)
