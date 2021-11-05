@@ -7,6 +7,7 @@ Dashboard by:
 
 ## Meus Projetos
 - [Minha lista de favoritos](https://github.com/eniovalo/favoritos)
+- [Conhecimentos básicos para o dia a dia](https://github.com/eniovalo/conhecimentos-basicos)
 
 ## Exemplos
 - Javascript:
