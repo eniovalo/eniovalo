@@ -5,12 +5,12 @@
 Dashboard by:
 - <https://github.com/anuraghazra/github-readme-stats>
 
-Meus Projetos:
--
+## Meus Projetos
+- [Minha lista de favoritos](https://github.com/eniovalo/favoritos)
 
-Exemplos:
+## Exemplos
 - Javascript:
   - [How to use Rollup Plugin Polyfill with ResizeObserver](https://github.com/eniovalo/rollup-plugin-polyfill-example-resizeobserver)
 
-Cursos:
+## Cursos
 - [Aula da Alura sobre o Grafana com o InfluxDB](https://github.com/eniovalo/alura-grafana)
