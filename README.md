@@ -18,4 +18,5 @@ Dashboard by:
 - [Curso da Alura de Introdução à Data Science](https://github.com/eniovalo/alura-introducao-data-science)
 
 ### Monitoração
-- [Curso da Alura sobre o Grafana com o InfluxDB](https://github.com/eniovalo/alura-grafana)
+- [Curso da Alura sobre o Grafana com o InfluxDB](https://github.com/eniovalo/alura-grafana-telegraf)
+- [Curso da Alura sobre o Grafana com o Prometheus](https://github.com/eniovalo/alura-grafana-prometheus)
