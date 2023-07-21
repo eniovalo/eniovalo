@@ -12,11 +12,3 @@ Dashboard by:
 ## Exemplos
 - Javascript:
   - [How to use Rollup Plugin Polyfill with ResizeObserver](https://github.com/eniovalo/rollup-plugin-polyfill-example-resizeobserver)
-
-## Cursos
-### Data Science
-- [Curso da Alura de Introdução à Data Science](https://github.com/eniovalo/alura-introducao-data-science)
-
-### Monitoração
-- [Curso da Alura sobre o Grafana com o InfluxDB](https://github.com/eniovalo/alura-grafana-telegraf)
-- [Curso da Alura sobre o Grafana com o Prometheus](https://github.com/eniovalo/alura-grafana-prometheus)
